@@ -17,21 +17,8 @@ Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Comput
  
 ## Conocimientos
 
-<style>
-    .image-row {
-        display: flex;
-        justify-content: center; 
-        gap: 10px; 
-    }
-
-    .image-row img {
-        width: 50px; 
-        height: auto; 
-    }
-</style>
-
-<div class="image-row">
-    <img src="/source/java.png" alt="Java">
+<div style="display: flex; justify-content: center; gap: 10px; ">
+    <img src="/source/java.png" alt="Java" style=" width: 50px; height: auto; ">
     <img src="/source/python.png" alt="Python">
     <img src="/source/mysql.png" alt="MySql">
     <img src="/source/html.png" alt="HTML">
