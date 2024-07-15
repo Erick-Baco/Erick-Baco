@@ -19,8 +19,8 @@ Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Comput
 
 <div style="display: flex; justify-content: center; gap: 10px; ">
     <img src="/source/java.png" alt="Java" style=" width: 50px; height: auto; ">
-    <img src="/source/python.png" alt="Python">
-    <img src="/source/mysql.png" alt="MySql">
-    <img src="/source/html.png" alt="HTML">
-    <img src="/source/css.png" alt="CSS">
+    <img src="/source/python.png" alt="Python" style=" width: 50px; height: auto; ">
+    <img src="/source/mysql.png" alt="MySql" style=" width: 50px; height: auto; ">
+    <img src="/source/html.png" alt="HTML" style=" width: 50px; height: auto; ">
+    <img src="/source/css.png" alt="CSS" style=" width: 50px; height: auto; ">
 </div>
