@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub, en este lugar conservo algunos proyectos inter
 
 Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Computación, donde se maneja una gran variedad de temas: diseño web, programación móvil, algoritmos, bases de datos y redes de computadoras.
 
-## Metas 🌱
+## Metas  🌱
 
 - __Aprender__
     - La tecnología es todo un mundo que no se detiene, por lo que incursionar en él, significa aprendizaje continuo.
@@ -17,23 +17,10 @@ Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Comput
  
 ## Conocimientos
 
-<style>
-    .image-row {
-        display: flex;
-        justify-content: center; 
-        gap: 10px; 
-    }
-
-    .image-row img {
-        width: 50px; 
-        height: auto; 
-    }
-</style>
-
-<div class="image-row">
-    <img src="/source/java.png" alt="Java">
-    <img src="/source/python.png" alt="Python">
-    <img src="/source/mysql.png" alt="MySql">
-    <img src="/source/html.png" alt="HTML">
-    <img src="/source/css.png" alt="CSS">
+<div style="display: flex; justify-content: center; gap: 10px; ">
+    <img src="/source/java.png" alt="Java" style=" width: 50px; height: auto; ">
+    <img src="/source/python.png" alt="Python" style=" width: 50px; height: auto; ">
+    <img src="/source/mysql.png" alt="MySql" style=" width: 50px; height: auto; ">
+    <img src="/source/html.png" alt="HTML" style=" width: 50px; height: auto; ">
+    <img src="/source/css.png" alt="CSS" style=" width: 50px; height: auto; ">
 </div>
