@@ -17,23 +17,18 @@ Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Comput
  
 ## Conocimientos
 
-<style>
-    .image-row {
-        display: flex;
-        justify-content: center; 
-        gap: 10px; 
-    }
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0m45mR3oBoGzNLKkhE4rQf?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<!--
+**Erick-Baco/Erick-Baco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-    .image-row img {
-        width: 50px; 
-        height: auto; 
-    }
-</style>
+Here are some ideas to get you started:
 
-<div class="image-row">
-    <img src="/source/java.png" alt="Java">
-    <img src="/source/python.png" alt="Python">
-    <img src="/source/mysql.png" alt="MySql">
-    <img src="/source/html.png" alt="HTML">
-    <img src="/source/css.png" alt="CSS">
-</div>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
