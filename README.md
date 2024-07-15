@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub, en este lugar conservo algunos proyectos inter
 
 Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Computación, donde se maneja una gran variedad de temas: diseño web, programación móvil, algoritmos, bases de datos y redes de computadoras.
 
-## Metas  🌱
+## Metas 🌱
 
 - __Aprender__
     - La tecnología es todo un mundo que no se detiene, por lo que incursionar en él, significa aprendizaje continuo.
@@ -17,10 +17,18 @@ Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Comput
  
 ## Conocimientos
 
-<div style="display: flex; justify-content: center; gap: 10px; ">
-    <img src="/source/java.png" alt="Java" style=" width: 50px; height: auto; ">
-    <img src="/source/python.png" alt="Python" style=" width: 50px; height: auto; ">
-    <img src="/source/mysql.png" alt="MySql" style=" width: 50px; height: auto; ">
-    <img src="/source/html.png" alt="HTML" style=" width: 50px; height: auto; ">
-    <img src="/source/css.png" alt="CSS" style=" width: 50px; height: auto; ">
-</div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0m45mR3oBoGzNLKkhE4rQf?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<!--
+**Erick-Baco/Erick-Baco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
