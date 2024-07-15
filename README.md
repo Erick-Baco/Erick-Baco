@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub, en este lugar conservo algunos proyectos inter
 
 Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Computación, donde se maneja una gran variedad de temas: diseño web, programación móvil, algoritmos, bases de datos y redes de computadoras.
 
-## Metas 🌱
+## Metas  🌱
 
 - __Aprender__
     - La tecnología es todo un mundo que no se detiene, por lo que incursionar en él, significa aprendizaje continuo.
