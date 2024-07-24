@@ -43,4 +43,4 @@ Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Comput
 
 ## Top lenguajes
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-Baco&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Top Languages" />
