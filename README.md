@@ -1,26 +1,14 @@
 # Hola 🙋
 
-Bienvenido a mi perfil de GitHub, en este lugar conservo algunos proyectos interesantes que he desarrollado en mi camino por el mundo de la programación 🤓🤓
+Welcome to my GitHub profile, in this place I keep some interesting projects that I have developed on my way through the world of programming 🤓🤓
 
-### About me 💬
+- 🔭 I'm a software engineering student
+- 🌱 I’m currently learning python 🐍
 
-Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Computación, donde se maneja una gran variedad de temas: diseño web, programación móvil, algoritmos, bases de datos y redes de computadoras.
-
-## Metas 🌱
-
-- __Aprender__
-    - La tecnología es todo un mundo que no se detiene, por lo que incursionar en él, significa aprendizaje continuo.
-- __Ganar experiencia__
-    - Tener la posibilidad de ocupar diversos puestos sería indispensable para poder abordar problemas desde diversos ángulos.
-- __Desarrollar__
-    - Uno de los mayores atractivos de la carrera es la oportunidad de crear cosas nuevas e innovadoras.
- 
 ## Languajes
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -41,7 +29,7 @@ Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Comput
   </a> 
 </p>
 
-## Top lenguajes
+## Top languajes
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick-Baco&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Top Languages" />
 
