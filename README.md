@@ -40,3 +40,7 @@ Actualmente soy estudiante en la UNAM, curso la carrera de Ingeniería en Comput
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
+
+## Top lenguajes
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&theme=tokyonight&count_private=true&locale=en&layout=compact" alt="Top Languages" />
