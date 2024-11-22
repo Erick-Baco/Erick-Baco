@@ -26,10 +26,7 @@ Welcome to my GitHub profile, in this place I keep some interesting projects tha
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank"> 
-	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
+  </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
@@ -45,9 +42,6 @@ Welcome to my GitHub profile, in this place I keep some interesting projects tha
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-  </a>
   <a href="https://www.eclipse.org/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> 
   </a>
@@ -62,9 +56,6 @@ Welcome to my GitHub profile, in this place I keep some interesting projects tha
   </a>
   <a href="https://mariadb.org/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/> 
-  </a>
-  <a href="https://nodemon.io/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodemon/nodemon-original.svg" alt="nodemon" width="40" height="40"/> 
   </a>
   <a href="https://www.npmjs.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
