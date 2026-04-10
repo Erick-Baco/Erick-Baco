@@ -31,12 +31,8 @@ Welcome to my GitHub profile, in this place I keep some interesting projects tha
 ## Stats 🏅 
 
 <div align="center">
-
-![Erick-Baco Stats](https://github-readme-stats.vercel.app/api?username=Erick-Baco&show_icons=true&count_private=true&include_all_commits=true&theme=holi&hide_stars=false&locale=en)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Erick-Baco&show_icons=true&theme=holi&count_private=true&locale=en&layout=compact)
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erick-Baco&theme=holi&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 
