@@ -8,25 +8,24 @@ Welcome to my GitHub profile, in this place I keep some interesting projects tha
 ## Stack 📚
 
 <p align="center">
-  <a href="https://symfony.com" targer="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="50" height="50"/>
+  <a href="https://symfony.com" target="_blank">
+    <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
   </a>
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> 
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   </a>
-  <a href="https://nodejs.org" target="_blank"> 
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="nodejs" width="50" height="50"/>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
-  
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
 </p>
 
 ## Stats 🏅 
